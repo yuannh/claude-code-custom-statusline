@@ -108,3 +108,6 @@ That makes the display more stable across inconsistent runtime payloads.
 ## License
 
 MIT
+## Screenshot
+
+![Final output](./screenshots/final-output.png)
